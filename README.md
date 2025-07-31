@@ -3,8 +3,7 @@
 ### I'm passionate about data and transitioning to become a Data Engineer
 
 <div align="center">
-  <img src=".github/gato codando.gif
-" alt="Coding Cat" width="500">
+  <img src=".github/gato codando.gif"
 </div>
 
 __seu_usuario__ 
