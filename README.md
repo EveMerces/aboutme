@@ -2,11 +2,11 @@
 
 ### I'm passionate about data and transitioning to become a Data Engineer
 
-<div align="center">
-  <img src=".github/gato codando.gif"
-</div>
+<p align="center">
+  <img src=".github/gato-codando.gif" alt="Gato codando" width="400" />
+</p>
 
-__seu_usuario__ 
+__Evelyn Merces__ 
 
 * 🔭 I'm currently working at **RTM**
 * 🌱 I'm currently learning **Data Engineering & Lakehouse Architecture**
@@ -32,39 +32,40 @@ https://www.linkedin.com/in/evelyn-merc%C3%AAs-b8967a181/
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-seu_usuario
+Evelyn Merces
 
-<div align="center">
-  <img src="https://github.com/seu_usuario/seu_usuario/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu_usuario&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github.com/EvelynMerces/EvelynMerces/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu_usuario&style=flat-square&color=blue" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EvelynMerces&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvelynMerces&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynMerces&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LnKonfpQhRgXe/giphy.gif" alt="Typing" width="100">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Coffee" width="100">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Code" width="100">
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EvelynMerces&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Coffee" width="50">
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnKonfpQhRgXe/giphy.gif" alt="Typing" width="100" />
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Coffee" width="100" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Code" width="100" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Coffee" width="50" />
   <em>Learning data engineering while drinking coffee...</em>
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Coffee" width="50">
-</div>
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Coffee" width="50" />
+</p>
+
