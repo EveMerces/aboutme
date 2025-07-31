@@ -3,7 +3,7 @@
 ### Sou apaixonada por dados e estou me tornando Engenheira de Dados
 
 <p align="center">
-  <img src=".github/gato-codando.gif" alt="Gato codando" width="400" />
+  <img src=".github/gatocodando.gif" alt="Gato codando" width="400" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ### Sobre mim
 
 - 🔭 Trabalho atualmente na **RTM**
-- 🌱 Estudando **Engenharia de Dados & Arquitetura Lakehouse**
+- 🌱 Estudando **Engenharia de Dados & Arquitetura**
 - 🎯 Em transição para me tornar **Engenheira de Dados**
 - 👯 Aberta para colaborar em projetos internos de Lakehouse
 - 💬 Pergunte-me sobre **Infraestrutura, Arquitetura de Dados, ETL/ELT**
@@ -64,18 +64,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynMerces&layout=compact&theme=radical" alt="Top Languages" width="680" />
-</p>
-
----
-
-### Um pouco de animação para alegrar
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Cinema Film Reel" width="120" />
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Data animation" width="120" />
-  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" alt="Series watching" width="120" />
-</p>
-
-<p align="center" style="font-style: italic;">
-  Aprendendo engenharia de dados enquanto assisto minhas séries favoritas...
 </p>
