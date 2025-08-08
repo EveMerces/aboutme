@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Evelyn Merces
 
-### Sou apaixonada por dados e estou me tornando Engenheira de Dados
+### Sou apaixonada pela área tech e estou explorando diversas áreas que essa profissão pode me trazer
 
 <p align="center">
   <img src=".github/gatocodando.gif" alt="Gato codando" width="400" />
