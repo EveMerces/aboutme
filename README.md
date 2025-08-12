@@ -113,26 +113,24 @@
 
 
 
-### Minhas contribuições recentes
 
-
+### 📌 Minhas Contribuições Recentes
 
 <p align="center">
-  <img src="https://github.com/EvelynMerces/EvelynMerces/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribuições no GitHub" width="400" />
+  <img src="https://github.com/EvelynMerces/EvelynMerces/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribuições no GitHub" width="80%" />
 </p>
 
 ---
 
-##  Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EveMerces&show_icons=true&theme=radical" width="320"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EveMerces&theme=radical" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EveMerces&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EveMerces&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EveMerces&layout=compact&theme=radical" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EveMerces&layout=compact&theme=radical&hide_border=true" width="60%"/>
 </p>
 
 ---
-
