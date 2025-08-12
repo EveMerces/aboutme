@@ -1,6 +1,6 @@
-# Olá, seja bem vindo (a) ao meu perfil. eu sou Evelyn Merces
+# Olá, seja bem vindo (a) ao meu perfil. Eu sou Evelyn Merces 
 
-### Entre as minhas paixões por esportes, músicas e livros, tem a minha grande paixão pela área tech
+### Entre as minhas paixões por esportes, músicas e livros, tem a minha grande paixão pela área tech 👾
 <p align="center">
   <img src=".github/gatocodando.gif" alt="Gato codando" width="400" />
 </p>
@@ -56,6 +56,23 @@
 
 <p align="center">
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /></a>
+  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /></a>
+  <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" /></a>
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /></a>
+  <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" /></a>
+  <a href="https://airflow.apache.org/"><img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /></a>
+  <a href="https://nginx.org/"><img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /></a>
+  <a href="https://redis.io/"><img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /></a>
+  <a href="https://grafana.com/"><img src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" /></a>
 </p>
 
 ---
@@ -72,9 +89,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EvelynMerces&show_icons=true&theme=radical" alt="GitHub Stats" width="320" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvelynMerces&theme=radical" alt="GitHub Streak" width="320" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EveMerces&theme=radical" alt="GitHub Streak" width="320" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynMerces&layout=compact&theme=radical" alt="Top Languages" width="680" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EveMerces&layout=compact&theme=radical" alt="Top Languages" width="680" />
 </p>
