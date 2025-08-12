@@ -63,11 +63,6 @@
 </div>
 
 
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EveMerces&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
