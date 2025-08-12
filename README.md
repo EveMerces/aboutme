@@ -10,7 +10,7 @@
 ### Sobre mim
 
 - 🔭 Trabalho atualmente na **RTM**
-- 🌱 Estudando **Engenharia de Dados & Arquitetura e desenvolvimento de software volatdo para Back-End**
+- 🌱 Estudando **Engenharia de Dados & Arquitetura e desenvolvimento de software voltado para Back-End**
 - 🎯 Formação acadêmica: Bacharelado em Sistemas de Informação
 - 👯 Aberta para colaborar em projetos internos
 - 💬 Pergunte-me sobre **Infraestrutura, Arquitetura de Dados, ETL/ELT & Back-End**
