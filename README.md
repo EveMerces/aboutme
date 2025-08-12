@@ -4,14 +4,18 @@
 <p align="center">
   <img src=".github/gatocodando.gif" alt="Gato codando" width="400" />
 </p>
+
 ---
+
 ### Sobre mim
+
 - 🌱 Apaixonada por tecnologia e sempre explorando novas ferramentas e arquiteturas
 - 💻 Focada em **Engenharia de Dados, Arquitetura e Desenvolvimento Back-End**
 - 🔭 Atualmente trabalho na **RTM**
 - 🎓 Bacharelado em **Sistemas de Informação** (em andamento)
 - 💬 Pergunte-me sobre **Infraestrutura, Arquitetura de Dados, ETL/ELT & Back-End**
 - 📫 Contato: [evelynmercesdasilva@gmail.com](mailto:evelynmercesdasilva@gmail.com)
+  
 
 ---
 ### Vamos nos conectar
